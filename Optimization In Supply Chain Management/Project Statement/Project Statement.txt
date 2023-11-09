@@ -1,0 +1,23 @@
+Project Statement:
+
+Client:
+	One of the leading pallets manufacturer
+
+Business Problem:
+
+	Number of pallets to be stored in inventory for shipping to different customers is very volatile leading to understocking or overstocking. Understocking is leading to not honoring client requirements and overstocking is leading to inventory cost.
+
+Business Objective: Minimize the volatility in inventory stock
+
+Business Constraint: Minimize human intervention
+
+Success criteria:
+
+	Business success criteria: Reduce the volatility by at least 90%
+
+	Economic success criteria: Achieve a cost saving of at least $1M
+
+
+
+
+
